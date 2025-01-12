@@ -6,6 +6,21 @@ This file includes the structure of the PC-GAN model built in the paper and the 
 Please note the license when using
 
 Haojun Yuan
-<HaojunY1202@outlook.com>
-College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, 430070, China
+Address: College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, 430070, China
+
+Yuankai WANG
+Address: Department of Urban Planning and Design, The University of Hong Kong; Hong Kong SAR, China,
+
+Shiqi Zhou
+Address: College of Design and Innovation, Tongji University, Shanghai 200093, China
+
+Changguang Wu
+Address: College of Horticulture and Forestry Sciences, Huazhong Agricultural University, Wuhan, 430070, China
+
+Zhiqiang Wu
+Address: College of Architecture and Urban Planning, Tongji University, Shanghai 200093, China
+
+Waishan QIU
+Address: Department of Urban Planning and Design, The University of Hong Kong; Hong Kong SAR, China;
+
 
